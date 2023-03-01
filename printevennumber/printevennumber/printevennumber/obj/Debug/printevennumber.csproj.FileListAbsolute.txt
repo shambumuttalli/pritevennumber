@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\AlphaPi\printevennumber\printevennumber\bin\Debug\printevennumber.exe.config
+C:\Users\user\source\repos\AlphaPi\printevennumber\printevennumber\bin\Debug\printevennumber.exe
+C:\Users\user\source\repos\AlphaPi\printevennumber\printevennumber\bin\Debug\printevennumber.pdb
+C:\Users\user\source\repos\AlphaPi\printevennumber\printevennumber\obj\Debug\printevennumber.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AlphaPi\printevennumber\printevennumber\obj\Debug\printevennumber.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AlphaPi\printevennumber\printevennumber\obj\Debug\printevennumber.exe
+C:\Users\user\source\repos\AlphaPi\printevennumber\printevennumber\obj\Debug\printevennumber.pdb
